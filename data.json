@@ -49,7 +49,7 @@
   },
   {
     "id": "ISSUE-07",
-    "description": "",
+    "description": "四張單/登記桌名單撈取邏輯優化-進入該階段才判斷當下登記桌人員",
     "owner": "",
     "status": "待處理",
     "dueDate": "",
