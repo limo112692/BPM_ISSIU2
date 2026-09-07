@@ -1,10 +1,34 @@
 [
   {
     "id": "ISSUE-01",
-    "description": "範例議題：請填寫詳細說明",
-    "owner": "廠商A",
-    "status": "待處理",
-    "dueDate": "2026-09-10",
+    "description": "備查卡主卡有時查無資料問題 頁面欄位跑版",
+    "owner": "行管-茜婷副科",
+    "status": "處理中",
+    "dueDate": "2026-09-08",
     "remark": "可點擊雙擊儲存格直接編輯"
+  },
+  {
+    "id": "ISSUE-02",
+    "description": "請購與概算報表查詢，點開表單後(去年單據)，無法套表列印，該如何處理",
+    "owner": "財會-汪秀卿 ",
+    "status": "待處理",
+    "dueDate": "",
+    "remark": ""
+  },
+  {
+    "id": "ISSUE-03",
+    "description": "",
+    "owner": "",
+    "status": "待處理",
+    "dueDate": "",
+    "remark": ""
+  },
+  {
+    "id": "ISSUE-04",
+    "description": "費用開支申請書(總行付款申請) 報表查詢1.申請單位選擇(066)資作部，無法查到單據  (該同仁是流程其中一位經辦)",
+    "owner": "資規-高敬硯",
+    "status": "待處理",
+    "dueDate": "",
+    "remark": ""
   }
 ]
